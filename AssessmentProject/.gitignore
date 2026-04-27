@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.DS_Store
+*.lax
+*.sbn
+*.sbx
